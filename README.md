@@ -1,6 +1,6 @@
->> Investo – Trading Platform 
+  # Investo – Trading Platform 
 
-This project is a trading platform inspired by Zerodha Kite so that i could understand the frontend react functionalities and to upskill in it.
+# This project is a trading platform inspired by Zerodha Kite so that i could understand the frontend react functionalities and to upskill in it.
 
 >> About the project
 - Frontend: React, Bootstrap
@@ -11,5 +11,5 @@ This project is a trading platform inspired by Zerodha Kite so that i could unde
   - Apps marketplace UI
   - Responsive navbar and layout
 
->> Note
+# Note
 The project was initially bootstrapped from a starter repository and has been significantly customized and extended.
