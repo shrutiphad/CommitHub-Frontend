@@ -2,7 +2,7 @@
 
 # This project is a trading platform inspired by Zerodha Kite so that i could understand the frontend react functionalities and to upskill in it.
 
->> About the project
+# About the project
 - Frontend: React, Bootstrap
 - Backend: Node.js, Express
 - Features implemented by me:
