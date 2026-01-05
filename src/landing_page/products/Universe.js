@@ -16,7 +16,7 @@ function Universe() {
           <img
             src="/media/smallcaseLogo.png"
             alt="Smallcase" 
-            width="80%"
+            width="60%"
             className="img-fluid mb-2"
           />
           <p className="text-muted text-small">
@@ -27,8 +27,8 @@ function Universe() {
         
         <div className="col-4 p-3 mt-5">
           <img
-            src="/media/streaklogo.png"
-            alt="Streak" width="60%"
+            src="/media/streakLogo.png"
+            alt="Streak" width="50%"
             className="img-fluid mb-2"
           />
           <p className="text-muted text-small">
@@ -40,6 +40,7 @@ function Universe() {
           <img
             src="/media/sensibullLogo.svg"
             alt="Sensibull"
+            width="50%"
             className="img-fluid mb-2"
           />
           <p className="text-muted text-small">
@@ -50,9 +51,9 @@ function Universe() {
        
         <div className="col-4 p-3 mt-5">
           <img
-            src="/media/InvestoFundhouse.png"
+            src="/media/zerodhaFundhouse.png"
             alt="Investo Fund House"
-            width="40%"
+            width="50%"
             className="img-fluid mb-2"
           />
           <p className="text-muted text-small">
@@ -62,8 +63,9 @@ function Universe() {
 
         <div className="col-4 p-3 mt-5">
           <img
-            src="/media/goldenPiLogo.png"
+            src="/media/goldenpiLogo.png"
             alt="GoldenPi"
+            width="50%"
             className="img-fluid mb-2"
           />
           <p className="text-muted text-small">
@@ -75,7 +77,7 @@ function Universe() {
           <img
             src="/media/dittoLogo.png"
             alt="Ditto"
-            width="50%"
+            width="40%"
             className="img-fluid mb-2"
           />
           <p className="text-muted text-small">

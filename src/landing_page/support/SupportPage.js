@@ -11,6 +11,8 @@ function PricingPage() {
     <>
       <Hero />
       <CreateTicket />
+      <Navbar />
+<Footer ></Footer>
     </>
   );
 }
